@@ -31,8 +31,8 @@ The big project I would like to use this for is a program that automatcally tune
 Here are a few resources that were helpful to me in this project
 
 * [FlexRadio Wiki](wiki.flexradio.com/)
-* [FlexRadio Community] (community.flexradio.com/)
-* [C# Tutorial] (https://www.youtube.com/watch?v=gfkTfcpWqAY)
+* [FlexRadio Community](community.flexradio.com/)
+* [C# Tutorial](https://www.youtube.com/watch?v=gfkTfcpWqAY)
 
 ## Acknowledgments
 
