@@ -4,6 +4,8 @@ This is a simple program that will establish a connection with a 6000 series rad
 
 This was my first time working with C#, Visual Studio, an API, and a FlexRadio so please forgive any errors. I watched tutorials and used example programs to get this up and running. If you have any suggestions please let me know.
 
+I used Visual Studio 2019 Community edition and the FlexLib API v3.1.8.
+
 ## Getting Started
 
 You'll need to first download the [FlexRadio API](https://www.flexradio.com/downloads/).
